@@ -1,6 +1,7 @@
 # Python 150
-## Number of problems solved: 0
 This project aims to contain solutions to all interview questions in the Leetcode 150 list using python
+
+## Number of problems solved: 0
 
 ## Specific problems solved
 -
