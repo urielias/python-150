@@ -4,8 +4,6 @@ This project aims to contain solutions to all interview questions in the Leetcod
 
 ## Number of problems solved: 3
 
-## Specific problems solved
-
 -   Q088 - Merge Sorted Array
 -   Q027 - Remove Element
 -   Q026 - Remove Duplicates from Sorted Array
