@@ -6,5 +6,5 @@ This project aims to contain solutions to all interview questions in the Leetcod
 ## Specific problems solved
 -
 
-### Link to the full list of questions
+## Link to the full list of questions
 https://leetcode.com/studyplan/top-interview-150/
