@@ -2,12 +2,12 @@ from typing import List
 
 """
 1. Use one pointer for each list (i, j), starting at their respective last position (m and n).
-2. Loop through the list nums1 in reverse (use k as pointer).
-3. In each iteration, check if nums2 has been traversed completely. If so, break the loop.
-4. Check if nums1 has been traversed completely. If so, directly set position k in nums1 to
-   nums2[j] and move j to the left.
-5. If previous conditions not met, check both arrays in their current pointer position and set
-   nums1[k] to bigger value, while moving used pointer to the left. 
+2. Loop through the list nums1 in reverse (use k as pointer). In each iteration:
+   3. Check if nums2 has been traversed completely. If so, break the loop.
+   4. Check if nums1 has been traversed completely. If so, directly set position k in nums1 to
+      nums2[j] and move j to the left.
+   5. If previous conditions not met, check both arrays in their current pointer position and set
+      nums1[k] to bigger value, while moving used pointer to the left. 
 """
 
 
